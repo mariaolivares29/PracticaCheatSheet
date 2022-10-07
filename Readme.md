@@ -33,3 +33,28 @@ Sirve para que los desarrolladores suban el código de sus aplicaciones y herram
 4.Gráficos
 
 5.Revisión de código
+
+Glosario de comandos
+
+- Git config: sirve para definir valores de configuración de Git a nivel de un proyecto global o local.
+
+- Git init: este comando inicializa un nuevo repositorio en el repositorio local.
+
+- Git clone: este comando inicializa un nuevo repositorio en el repositorio local clonando íntegramente el contenido de un repositorio remoto que le indiquemos mediante una URL.
+
+- Git commit: una vez que tenemos archivos preparados en el área de preparación, para confirmar dichos archivos y crear una confirmación de cambios la sentencia utilizada es git commit.
+
+- Git status: el comando de git status nos da toda la información necesaria sobre la rama actual.
+
+- Git add: cuando creamos, modificamos o eliminamos un archivo, estos cambios suceden en local y no se incluirán en el siguiente commit.
+
+- Git push: después de haber confirmado tus cambios, el siguiente paso que quieres dar es enviar tus cambios al servidor remoto. Git push envía tus commits al repositorio remoto.
+
+- Git revert: sirve para deshacer los cambios que hemos hecho.
+
+- Git pull: se utiliza para recibir actualizaciones del repositorio remoto.
+
+- Git merge: cuando ya hayas completado el desarrollo de tu proyecto en tu rama y todo funcione correctamente, el último paso es fusionar la rama con su rama padre. Esto se hace con el comando git merge.
+
+
+
